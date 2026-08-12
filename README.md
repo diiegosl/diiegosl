@@ -21,14 +21,5 @@ Análise de Dados | Business Intelligence | Engenharia de Dados
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=diiegosl&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=diiegosl&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="175"/>
-</p>
-
----
-
 ### 📬 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-oliveira-silva/)
