@@ -5,9 +5,9 @@ Análise de Dados | Business Intelligence | Engenharia de Dados
 ---
 
 ### 🚀 Sobre Mim
-- 📊 Profissional focado na construção de pipelines de dados e dashboards para tomada de decisão.
-- 🛠️ Domínio em **Python, PostgreSQL, Power BI e DAX**.
-- 📌 Atualmente desenvolvendo projetos *End-to-End* unindo inteligência de dados e visão de negócios.
+- 📊 Entusiasta de dados focado no aprendizado prático de pipelines e dashboards.
+- 🛠️ Praticando e desenvolvendo habilidades em **Python, PostgreSQL, Power BI e DAX**.
+- 📌 Desenvolvendo projetos pessoais *End-to-End* para colocar a inteligência de dados em prática.
 
 ---
 
@@ -24,11 +24,11 @@ Análise de Dados | Business Intelligence | Engenharia de Dados
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diiegosl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiegosl&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="175"/>
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=diiegosl&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="175"/>
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=diiegosl&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="175"/>
 </p>
 
 ---
 
 ### 📬 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva)
